@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LinuxCommandLine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LinuxCommandLine_jar</output-path>
+    <root id="archive" name="LinuxCommandLine.jar">
+      <element id="module-output" name="LinuxCommandLine" />
+    </root>
+  </artifact>
+</component>
